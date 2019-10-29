@@ -22,9 +22,9 @@ Temos um prazo de 10 dias para entregar uma solução ao Fernando.
 
 Caso você esteja confortável em já colocar a mão na massa, faça um fork deste repositório e disponibilize publicamente sua solução.
 
-Se quiser solucionar através de diagramas também não tem problema! Basta enviar o diagrama pro email inicial ou entrar em contato com a gente.
+Se quiser solucionar através de diagramas também não tem problema! Basta enviar o diagrama pro nosso email ou entrar em contato com a gente pelo WhatsApp.
 
-O importante deste teste é ver como funciona o seu raciocínio diante de problemas do dia-a-dia e não avaliar o seu desempenho técnico.
+**O importante deste teste é ver como funciona o seu raciocínio diante de problemas do dia-a-dia e não avaliar o seu desempenho técnico.**
 
 # Geekr
 
